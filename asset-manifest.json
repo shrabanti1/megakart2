@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/megakart2/static/css/main.c969ea52.css",
+    "main.js": "/megakart2/static/js/main.d40c5967.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/megakart2/static/js/787.c4e7f8f9.chunk.js",
+    "index.html": "/megakart2/index.html",
+    "main.c969ea52.css.map": "/megakart2/static/css/main.c969ea52.css.map",
+    "main.d40c5967.js.map": "/megakart2/static/js/main.d40c5967.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/megakart2/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c969ea52.css",
+    "static/js/main.d40c5967.js"
+  ]
+}
