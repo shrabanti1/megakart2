@@ -28,7 +28,7 @@ const Profile = () => {
     e.preventDefault();
     try {
       const { data } = await axios.put(
-        "https://shopnow-5f1x.onrender.com/api/v1/auth/profile",
+        "http://localhost:8080/api/v1/auth/profile",
         {
           name,
           email,
